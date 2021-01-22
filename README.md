@@ -17,3 +17,4 @@ now run this command
 sudo sh '~/mritepad/install.sh
 
 now you can run the '/home/yourusername/mrite/mrite.sh file to execute it
+do not download the zip just run the install command in the terminal
