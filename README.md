@@ -7,4 +7,13 @@ mrite cannot be used in Windows
 make sure you have git installed
 install git : sudo apt install git
 
-to install
+to install type :
+
+git clone https://github.com/meowgle/Mritepad.git
+
+then make sure to make the .sh files are set to execute as program
+now run this command 
+
+sudo sh '~/mritepad/install.sh
+
+now you can run the '/home/yourusername/mrite/mrite.sh file to execute it
